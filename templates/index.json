@@ -57,6 +57,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
@@ -172,17 +173,17 @@
         "product_price_size": 14,
         "discounted_price_color": "#ff3451",
         "normal_price_color": "#212121",
-        "button_color": "#FFFFFF",
+        "button_color": "#ffffff",
         "button_background_color": "#000000",
-        "button_color_hover": "#FFFFFF",
+        "button_color_hover": "#ffffff",
         "button_background_color_hover": "#000000",
-        "button_border_color": "#FFFFFF",
+        "button_border_color": "#ffffff",
         "button_height": 44,
         "button_width": 200,
         "button_font_size": 16,
         "button_border_radius": 2,
         "button_border_thickness": 0,
-        "background-color": "#FFFFFF",
+        "background-color": "#ffffff",
         "margin_top": 0,
         "margin_bottom": 0,
         "padding_top": 56,
@@ -191,11 +192,76 @@
         "padding_sides_mobile": 1.5,
         "section-width": 120
       }
+    },
+    "multicolumn_3cmr3T": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_LpbKWc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BODY_MIST_PRO_ACTIF_2023_ET2300120_-_presentation_Page_09_Image_0003.jpg",
+            "title": "",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column_6qJPxt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BODY_MIST_PRO_ACTIF_2023_ET2300120_-_presentation_Page_09_Image_0002.jpg",
+            "title": "",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column_FyFYc6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BODY_MIST_PRO_ACTIF_2023_ET2300120_-_presentation_Page_01_Image_0003.jpg",
+            "title": "",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column_LpbKWc",
+        "column_6qJPxt",
+        "column_FyFYc6"
+      ],
+      "settings": {
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "image_width": "full",
+        "columns_desktop": 3,
+        "open_in_new_tab": false,
+        "heading": "Multicolumn",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_with_text_Jrpc3X",
     "rich_text_gApyDD",
-    "ss_tabs_FGW3xA"
+    "ss_tabs_FGW3xA",
+    "multicolumn_3cmr3T"
   ]
 }
