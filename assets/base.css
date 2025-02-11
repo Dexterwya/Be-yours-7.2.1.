@@ -3591,3 +3591,39 @@ span[data-highlight=underline] mark svg path {
     stroke-dashoffset: 0;
   }
 }
+
+@font-face { font-family: The Philadelphia; src: url('https://cdn.shopify.com/s/files/1/0683/4775/6733/files/The_Philadelphia_Story.woff?v=1739269880'); } 
+
+h1 {
+  font-family: The Philadelphia !important;
+}
+
+@font-face { font-family: The Philadelphia; src: url('https://cdn.shopify.com/s/files/1/0683/4775/6733/files/The_Philadelphia_Story.woff?v=1739269880'); } 
+
+h2 {
+  font-family: The Philadelphia !important;
+}
+
+@font-face { font-family: The Philadelphia; src: url('https://cdn.shopify.com/s/files/1/0683/4775/6733/files/The_Philadelphia_Story.woff?v=1739269880'); } 
+
+h3 {
+  font-family: The Philadelphia !important;
+}
+
+@font-face { font-family: The Philadelphia; src: url('https://cdn.shopify.com/s/files/1/0683/4775/6733/files/The_Philadelphia_Story.woff?v=1739269880'); } 
+
+h4 {
+  font-family: The Philadelphia !important;
+}
+
+@font-face { font-family: The Philadelphia; src: url('https://cdn.shopify.com/s/files/1/0683/4775/6733/files/The_Philadelphia_Story.woff?v=1739269880'); } 
+
+h5 {
+  font-family: The Philadelphia !important;
+}
+
+@font-face { font-family: The Philadelphia; src: url('https://cdn.shopify.com/s/files/1/0683/4775/6733/files/The_Philadelphia_Story.woff?v=1739269880'); } 
+
+h6 {
+  font-family: The Philadelphia !important;
+}
