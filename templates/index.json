@@ -55,34 +55,11 @@
             "text_color": "#3f7bd3",
             "image_border_color": "#000000"
           }
-        },
-        "slide_MxFzUf": {
-          "type": "slide",
-          "settings": {
-            "heading": "<h2>Swim tops</h2>",
-            "sub_heading": "<p>SETTING THE STANDARDS</p>",
-            "text": "<p>Swim tops are crafted to provide both support and style for various water activities, ranging from leisurely sunbathing to active swimming.</p>",
-            "button": "Shop Now",
-            "button_url": "",
-            "button_color": "#FFFFFF",
-            "button_hover_color": "#FFFFFF",
-            "button_bg_color": "#1a9b6d",
-            "button_bg_hover_color": "#1a9b6d",
-            "button_border_color": "#1a9b6d",
-            "button_border_hover_color": "#1a9b6d",
-            "content_bg_color": "#e0e9e3",
-            "content_border_color": "#000000",
-            "heading_color": "#1a9b6d",
-            "sub_heading_color": "#1a9b6d",
-            "text_color": "#1a9b6d",
-            "image_border_color": "#000000"
-          }
         }
       },
       "block_order": [
         "slide_JXCHjn",
-        "slide_kejMKD",
-        "slide_MxFzUf"
+        "slide_kejMKD"
       ],
       "settings": {
         "autoplay": false,
