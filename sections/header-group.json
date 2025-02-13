@@ -17,7 +17,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "DISCOVER OUR NATURAL SOAPS",
             "text_on_mobile": "",
             "text_size": 13,
             "link": ""
@@ -37,7 +37,7 @@
         "direction": "left",
         "speed": 1.6,
         "colors_text": "#ffffff",
-        "colors_background": "#135a19",
+        "colors_background": "#5f282e",
         "gradient_background": "",
         "padding_top": 0,
         "padding_bottom": 0
