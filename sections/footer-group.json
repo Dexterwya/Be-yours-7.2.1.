@@ -57,12 +57,12 @@
         "enable_language_selector": true,
         "payment_enable": true,
         "show_policy": false,
-        "copyright_text": "All rights reserved.",
+        "copyright_text": "",
         "colors_text": "#000000",
         "colors_heading": "#000000",
         "colors_link": "#000000",
         "colors_border": "#000000",
-        "colors_background": "#faf8f4",
+        "colors_background": "#eaeaea",
         "gradient_background": ""
       }
     }
