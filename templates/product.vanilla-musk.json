@@ -247,7 +247,7 @@
       "settings": {
         "product_list_limit": 4,
         "show_divider": false,
-        "heading": "You May Also Like",
+        "heading": "Others also considered",
         "heading_size": "h1",
         "heading_alignment": "center",
         "heading_tag": "h2",
