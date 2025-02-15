@@ -143,7 +143,7 @@
         "heading_GRKcNM": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "A Splash of Citrus Energy!",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -151,27 +151,18 @@
         "text_cfcBYq": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Revitalize your shower routine with the invigorating scent of Orange Verte. This refreshing shower gel gently cleanses while leaving your skin soft, hydrated, and infused with a burst of zesty citrus freshness.</p>",
             "text_size": "typeset2",
             "secondary_color": false
-          }
-        },
-        "button_pKUA4p": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_size": "medium",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_GRKcNM",
-        "text_cfcBYq",
-        "button_pKUA4p"
+        "text_cfcBYq"
       ],
       "settings": {
+        "image": "shopify://shop_images/BODYMISTPROACTIF2023ET2300120-presentation_Page_05_Image_0001_07f50cb6-d911-436f-84d1-189d3c8e8bf1.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
