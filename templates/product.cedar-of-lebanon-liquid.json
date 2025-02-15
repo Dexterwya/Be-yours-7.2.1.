@@ -143,7 +143,7 @@
         "heading_GRKcNM": {
           "type": "heading",
           "settings": {
-            "heading": "A Splash of Citrus Energy!",
+            "heading": "The Essence of Strength & Purity! ",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -151,7 +151,7 @@
         "text_cfcBYq": {
           "type": "text",
           "settings": {
-            "text": "<p>Revitalize your shower routine with the invigorating scent of Orange Verte. This refreshing shower gel gently cleanses while leaving your skin soft, hydrated, and infused with a burst of zesty citrus freshness.</p>",
+            "text": "<p>Immerse yourself in the rich, woody aroma of the majestic Cedar of Lebanon. This invigorating formula deeply cleanses while leaving your skin refreshed, nourished, and subtly scented with warm, earthy notes.</p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -162,7 +162,7 @@
         "text_cfcBYq"
       ],
       "settings": {
-        "image": "shopify://shop_images/BODYMISTPROACTIF2023ET2300120-presentation_Page_05_Image_0001_07f50cb6-d911-436f-84d1-189d3c8e8bf1.jpg",
+        "image": "shopify://shop_images/WhatsApp_Image_2025-01-29_at_2.50.14_PM_1.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -176,6 +176,7 @@
         "mobile_text_alignment": "left",
         "mobile_image_ratio": "auto",
         "enable_video_looping": false,
+        "video_url": "",
         "use_custom_colors": false,
         "colors_button_label": "#ffffff",
         "colors_button_background": "#1a1b18",
