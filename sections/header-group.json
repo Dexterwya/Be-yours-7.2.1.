@@ -22,15 +22,25 @@
             "text_size": 13,
             "link": ""
           }
+        },
+        "announcement_e4YGrN": {
+          "type": "announcement",
+          "settings": {
+            "text": "DELIVERY ALL OVER LEBANON 🇱🇧",
+            "text_on_mobile": "",
+            "text_size": 13,
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_e4YGrN"
       ],
       "settings": {
         "only_homepage": false,
-        "layout": "default",
-        "mobile_layout": "carousel",
+        "layout": "marquee",
+        "mobile_layout": "marquee",
         "autorotate": true,
         "autorotate_speed": 5,
         "show_navigation": true,
