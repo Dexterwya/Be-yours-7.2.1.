@@ -19,21 +19,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "breadcrumb": {
-          "type": "breadcrumb",
-          "settings": {
-            "text_style": "uppercase",
-            "show_divider": true
-          }
-        },
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "icon": "none",
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -123,8 +108,6 @@
         }
       },
       "block_order": [
-        "breadcrumb",
-        "vendor",
         "title",
         "rating",
         "price",
@@ -152,6 +135,55 @@
         "show_mobile_thumbnails": true,
         "padding_top": 0,
         "padding_bottom": 72
+      }
+    },
+    "image_with_text_Tk9DHK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_QQAcU7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gentle on Skin",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_czVB8U": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Immerse yourself in the warm, comforting blend of sweet vanilla and soft musk. This luxurious liquid soap gently cleanses while leaving your skin feeling silky smooth and delicately fragranced. Perfect for an everyday touch of elegance and relaxation.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_QQAcU7",
+        "text_czVB8U"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/BODYMISTPROACTIF2023ET2300120-presentation_Page_22_Image_0001_1.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "scrolling-promotion": {
@@ -196,6 +228,7 @@
         "announcement-1",
         "announcement-3"
       ],
+      "disabled": true,
       "settings": {
         "direction": "left",
         "speed": 1.6,
@@ -262,6 +295,7 @@
   "order": [
     "empty-space",
     "main",
+    "image_with_text_Tk9DHK",
     "scrolling-promotion",
     "product-recommendations",
     "recently-viewed-products"
