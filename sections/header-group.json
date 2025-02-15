@@ -17,7 +17,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "DISCOVER OUR NATURAL SOAPS",
+            "text": "DISCOVER OUR NATURAL SOAPS 🧴",
             "text_on_mobile": "",
             "text_size": 13,
             "link": ""
@@ -28,7 +28,7 @@
         "announcement-bar-0"
       ],
       "settings": {
-        "only_homepage": true,
+        "only_homepage": false,
         "layout": "default",
         "mobile_layout": "carousel",
         "autorotate": true,
