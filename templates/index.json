@@ -196,7 +196,7 @@
             "product_image_orientation": "portrait",
             "button_mt": 48,
             "button_text": "Shop Now",
-            "button_link": "shopify://collections/all"
+            "button_link": "shopify://collections/liquid-soap"
           }
         },
         "collection_bwLATx": {
@@ -207,11 +207,11 @@
             "product_limit": 6,
             "product_row_count": 4,
             "mobile_product_row_count": 1,
-            "enable_swiper_on_mobile": false,
+            "enable_swiper_on_mobile": true,
             "product_image_orientation": "square",
             "button_mt": 48,
             "button_text": "Shop Now",
-            "button_link": "shopify://collections/all"
+            "button_link": "shopify://collections/shower-gel"
           }
         },
         "collection_NgnB9k": {
@@ -222,11 +222,11 @@
             "product_limit": 6,
             "product_row_count": 4,
             "mobile_product_row_count": 1,
-            "enable_swiper_on_mobile": false,
+            "enable_swiper_on_mobile": true,
             "product_image_orientation": "square",
             "button_mt": 48,
             "button_text": "Shop Now",
-            "button_link": "shopify://collections/all"
+            "button_link": "shopify://collections/aleppo-soap"
           }
         }
       },
@@ -298,6 +298,7 @@
         "heading_pPaJ4K",
         "text_DeRBtN"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/10.jpg",
         "image_position": "center center",
@@ -327,18 +328,18 @@
     "featured_collection_JE3Dy7": {
       "type": "featured-collection",
       "settings": {
-        "collection": "gifts-travel",
+        "collection": "bundles",
         "products_to_show": 4,
         "horizontal_scroll": false,
         "show_view_all": true,
         "show_divider": false,
-        "heading": "",
+        "heading": "Shop By Bundles",
         "heading_size": "h1",
-        "heading_alignment": "left",
+        "heading_alignment": "center",
         "heading_tag": "h2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
         "image_position": "center center",
         "enable_image_fill": true,
         "show_secondary_image": false,
