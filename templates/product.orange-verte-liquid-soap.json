@@ -19,21 +19,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "breadcrumb": {
-          "type": "breadcrumb",
-          "settings": {
-            "text_style": "uppercase",
-            "show_divider": true
-          }
-        },
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "icon": "none",
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -123,8 +108,6 @@
         }
       },
       "block_order": [
-        "breadcrumb",
-        "vendor",
         "title",
         "rating",
         "price",
@@ -209,12 +192,61 @@
         "padding_bottom": 28
       }
     },
+    "image_with_text_A3BzWU": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_etK6jL": {
+          "type": "heading",
+          "settings": {
+            "heading": "A burst of freshness",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_qTQzye": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Energize your senses with the crisp, zesty scent of Orange Verte. Infused with refreshing citrus notes, this liquid soap gently cleanses while keeping your skin soft and revitalized. Perfect for an invigorating start to your day!</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_etK6jL",
+        "text_qTQzye"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/BODYMISTPROACTIF2023ET2300120-presentation_Page_25_Image_0002_58921430-0996-4b71-9f12-b6b0ce76b865.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
         "product_list_limit": 4,
         "show_divider": false,
-        "heading": "You May Also Like",
+        "heading": "Others also considered",
         "heading_size": "h1",
         "heading_alignment": "center",
         "heading_tag": "h2",
@@ -263,6 +295,7 @@
     "empty-space",
     "main",
     "scrolling-promotion",
+    "image_with_text_A3BzWU",
     "product-recommendations",
     "recently-viewed-products"
   ]
