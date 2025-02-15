@@ -353,6 +353,55 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_frWJmj": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_idyLeK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Concept & Olfactory Signature",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_9Y33mw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The <strong>säpon d’orient</strong> olfactory brand identity is a harmonious synthesis of Mediterranean & Oriental influences, meticulously crafting bespoke scents that intertwine tactile sensations with the allure of fragrance.</p><p>Embarking on a journey through the Lebanese Terroir, we skillfully craft scents using locally sourced ingredients. Our creations represent an exquisite blend of tactile and olfactory experiences, offering a truly unique and personalized aromatic adventure.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_idyLeK",
+        "text_9Y33mw"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/map_1.webp",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn_3cmr3T": {
       "type": "multicolumn",
       "blocks": {
@@ -541,6 +590,7 @@
     "ss_tabs_FGW3xA",
     "image_with_text_wxB6WM",
     "featured_collection_JE3Dy7",
+    "image_with_text_frWJmj",
     "multicolumn_3cmr3T",
     "ss_feature_1_pLmfYN"
   ]
